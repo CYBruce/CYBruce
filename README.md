@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 <!--
 **CYBruce/CYBruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently finding my passion.
+
+🌟 **My Skills**
+<!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
+
+![](https://img.shields.io/badge/-Python-3f7fbd?logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-DeepLearning-3f7fbd?logo=Pandas&logoColor=fff)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CYBruce&theme=maroongold)
+
+
+<!--END_SECTION:waka-->
+
