@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Now I work as a machine learning engineer in Alibaba, Beijing.
-- 🌱 Will graduate from Tsinghua in July, 2022.
+- Working as a machine learning engineer in Alibaba, Beijing.
 
 🌟 **My Skills**
 <!-- [![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl}) -->
